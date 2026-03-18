@@ -1,5 +1,8 @@
 # 📊 Retail Sales Analytics Dashboard (Power BI)
 
+## 🔗 Live Dashboard Preview
+Screenshots available in the repository showcasing interactive Power BI visuals.
+
 ## 📌 Project Overview
 
 This project presents an interactive **Retail Sales Analytics Dashboard** built using Power BI to analyze **100K+ sales transactions**. The dashboard provides insights into revenue trends, regional performance, customer demographics, and product category distribution to support data-driven decision making.
