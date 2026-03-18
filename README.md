@@ -140,11 +140,3 @@ Retail-Sales-PowerBI-Dashboard
 * Add sales forecasting
 * Include customer segmentation analysis
 * Enhance dashboard design with advanced visuals
-
----
-
-## 👩‍💻 Author
-
-Kavyasree
-BTech AIML Student | Data Analytics Enthusiast
-
