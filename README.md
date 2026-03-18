@@ -46,42 +46,6 @@ This project presents an interactive **Retail Sales Analytics Dashboard** built 
 
 ---
 
-### 🔹 Sales Analysis
-
-* Sales Trend Over Time
-* Sales by Region
-
-📸
-![Sales Analysis](screenshots/sales_analysis.png)
-
----
-
-### 🔹 Customer Analysis
-
-* Sales by Customer Gender
-* Customer Insights
-
-📸
-![Customer Analysis](screenshots/customer_analysis.png)
-
----
-
-### 🔹 Product Analysis
-
-* Sales Distribution by Product Category
-
-📸
-![Product Analysis](screenshots/product_analysis.png)
-
----
-
-### 🔹 Dashboard Overview
-
-📸
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
----
-
 ## ⚙️ Key DAX Measures
 
 ```DAX
